@@ -1,0 +1,162 @@
+{
+  "Ficção Científica": [
+    {
+      "titulo": "Duna",
+      "autor": "Frank Herbert",
+      "ano": 1965
+    },
+    {
+      "titulo": "Neuromancer",
+      "autor": "William Gibson",
+      "ano": 1984
+    },
+    {
+      "titulo": "Fundação",
+      "autor": "Isaac Asimov",
+      "ano": 1951
+    },
+    {
+      "titulo": "Snow Crash",
+      "autor": "Neal Stephenson",
+      "ano": 1992
+    },
+    {
+      "titulo": "O Fim da Infância",
+      "autor": "Arthur C. Clarke",
+      "ano": 1953
+    },
+    {
+      "titulo": "Solaris",
+      "autor": "Stanisław Lem",
+      "ano": 1961
+    }
+  ],
+  "Fantasia": [
+    {
+      "titulo": "O Senhor dos Anéis",
+      "autor": "J.R.R. Tolkien",
+      "ano": 1954
+    },
+    {
+      "titulo": "Harry Potter e a Pedra Filosofal",
+      "autor": "J.K. Rowling",
+      "ano": 1997
+    },
+    {
+      "titulo": "As Crônicas de Nárnia",
+      "autor": "C.S. Lewis",
+      "ano": 1950
+    },
+    {
+      "titulo": "Mistborn: O Império Final",
+      "autor": "Brandon Sanderson",
+      "ano": 2006
+    },
+    {
+      "titulo": "A Roda do Tempo",
+      "autor": "Robert Jordan",
+      "ano": 1990
+    },
+    {
+      "titulo": "O Nome do Vento",
+      "autor": "Patrick Rothfuss",
+      "ano": 2007
+    }
+  ],
+  "Romance": [
+    {
+      "titulo": "Orgulho e Preconceito",
+      "autor": "Jane Austen",
+      "ano": 1813
+    },
+    {
+      "titulo": "O Morro dos Ventos Uivantes",
+      "autor": "Emily Brontë",
+      "ano": 1847
+    },
+    {
+      "titulo": "Anna Kariênina",
+      "autor": "Liev Tolstói",
+      "ano": 1877
+    },
+    {
+      "titulo": "Dom Casmurro",
+      "autor": "Machado de Assis",
+      "ano": 1899
+    },
+    {
+      "titulo": "O Amor nos Tempos do Cólera",
+      "autor": "Gabriel García Márquez",
+      "ano": 1985
+    },
+    {
+      "titulo": "Como Eu Era Antes de Você",
+      "autor": "Jojo Moyes",
+      "ano": 2012
+    }
+  ],
+  "Suspense e Mistério": [
+    {
+      "titulo": "O Código Da Vinci",
+      "autor": "Dan Brown",
+      "ano": 2003
+    },
+    {
+      "titulo": "Garota Exemplar",
+      "autor": "Gillian Flynn",
+      "ano": 2012
+    },
+    {
+      "titulo": "Os Homens que Não Amavam as Mulheres",
+      "autor": "Stieg Larsson",
+      "ano": 2005
+    },
+    {
+      "titulo": "Assassinato no Expresso do Oriente",
+      "autor": "Agatha Christie",
+      "ano": 1934
+    },
+    {
+      "titulo": "O Silêncio dos Inocentes",
+      "autor": "Thomas Harris",
+      "ano": 1988
+    },
+    {
+      "titulo": "Antes de Dormir",
+      "autor": "S.J. Watson",
+      "ano": 2011
+    }
+  ],
+  "Não Ficção": [
+    {
+      "titulo": "Sapiens: Uma Breve História da Humanidade",
+      "autor": "Yuval Noah Harari",
+      "ano": 2011
+    },
+    {
+      "titulo": "O Poder do Hábito",
+      "autor": "Charles Duhigg",
+      "ano": 2012
+    },
+    {
+      "titulo": "Mindset: A Nova Psicologia do Sucesso",
+      "autor": "Carol S. Dweck",
+      "ano": 2006
+    },
+    {
+      "titulo": "Rápido e Devagar",
+      "autor": "Daniel Kahneman",
+      "ano": 2011
+    },
+    {
+      "titulo": "Como Fazer Amigos e Influenciar Pessoas",
+      "autor": "Dale Carnegie",
+      "ano": 1936
+    },
+    {
+      "titulo": "A Arte da Guerra",
+      "autor": "Sun Tzu",
+      "ano": -500
+    }
+  ]
+}
